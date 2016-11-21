@@ -1,0 +1,130 @@
+﻿<html><head><title>Optimized Test Flow Automation (OTFA) tool - Version 3.0.1</title><meta http-equiv="Content-Type" content="text/html;charset=UTF-8" ><STYLE type="text/css">TABLE { border-collapse: collapse; border-top: 1px; border-left: 1px; border-style: solid; margin: 4px; }TD, TH { border-bottom: 1px; border-right: 1px; border-style: solid; padding: 4px; }TH { background-color: #D8D8D8; }</STYLE></head><body><div><p dir="ltr" style="margin-left:.25in;text-indent:0in;"><u><strong><span style="font-size:18px;">Overview</span></strong></u></p>
+
+<p dir="ltr" style="margin-left:.25in;text-indent:0in;">Optimized Test Flow Automation (OTFA) Tool is a custom framework, which uses the Selenium API and the feature file generated from CTD to run tests in a specified browser. OTFA is powered by BDD style of defining test cases from Cucumber/Gherkin and web automation from Selenium. It leverages a powerful learning and pattern based Discovery and Mapping Engine to identify the steps and application objects based on the application type, scenario, and the current context.</p>
+
+<p dir="ltr" style="margin-left:.25in;text-indent:0in;">To log in to the application, <a href="http://9.121.56.114:8080/OTFA/">click&nbsp;here.</a></p>
+
+<p dir="ltr" style="margin-left:.25in;text-indent:0in;"><img style="width: 900px; height: 618px;" lconnwikiparamattachmentname="TAE architecture.jpg" src="file:///C:\Users\IBM_ADMIN\Downloads\Cu-Sel\TAE architecture.jpg" lconnwikiparamwikipage="Optimized Test Flow Automation (OTFA) tool - Version 3.0.1" lconnwikimacro="image" alt="Architecture overview of OTFA"></img></p>
+
+<p dir="ltr" style="margin-left:.25in;text-indent:0in;">&nbsp;</p>
+
+<p dir="ltr" style="margin-left:.25in;text-indent:0in;"><u><span style="font-size:18px;"><strong>What's new in this release</strong></span></u></p>
+
+<p dir="ltr" style="margin-left:.25in;text-indent:0in;">OTFA V3.0 has the following new features:</p>
+
+<ul dir="ltr">
+	<li><strong>Supports execution of test cases on mobile applications:</strong>
+
+	<ul>
+		<li>Chrome plugin to capture objects.</li>
+		<li>Supports execution of feature file for mobile enabled web application on any android device.</li>
+	</ul>
+	</li>
+	<li><strong>&nbsp;Grid management:</strong>
+	<ul>
+		<li>Ability to add or delete test machines on which the test cases can be run.</li>
+	</ul>
+	</li>
+	<li><strong>Other enhancements:</strong>
+	<ul>
+		<li>Ability to delete cookies before execution in both web and mobile versions.</li>
+		<li>Support for background section of the feature file.</li>
+		<li>Enhanced object capture to automatically map objects for the same application repeated across different feature files, resulting in reduced execution time.</li>
+		<li>Additional validation step for object mapping to verify page content before execution.</li>
+		<li>Overcome limitations with XPath with the ability to capture an object by its CSS, ID, name, or XPath.</li>
+		<li>Enhanced user interface for Test Execution and Feature File Import tabs.</li>
+	</ul>
+	</li>
+</ul>
+
+<p dir="ltr"><strong><span style="font-size:18px;">&nbsp;&nbsp;&nbsp;&nbsp;<u> Prerequisites</u></span></strong></p>
+
+<ul dir="ltr">
+	<li>Java 1.7</li>
+	<li>Google Chrome and Firefox browsers</li>
+	<li><em>Open Page with Chrome</em> add-on for the Firefox browser to invoke Chrome browser from the Firefox browser.</li>
+	<li>Following plugins for Firefox browser, in order to install the Object Builder:
+	<ul>
+		<li>Firefox version 1.5, or higher, up to version 48.</li>
+		<li>Firebug version 2.0.14.</li>
+	</ul>
+	</li>
+</ul>
+
+<p dir="ltr">&nbsp;</p>
+
+<table align="left" border="1" dir="ltr">
+	<tbody>
+		<tr>
+			<th colspan="3" scope="col" style="width: 298px;">
+			<div><span style="font-size:14px;"><span style="font-weight: bold;"><span style="color: black;"><span style="font-family: Arial,Helvetica,sans-serif;">OTFA Tool Version 3.0 Reference</span></span></span></span></div>
+			</th>
+		</tr>
+		<tr>
+			<td style="width: 240px;">TAE TDM Roadmap</td>
+			<td style="width: 246px;">
+			<ul>
+				<li><a href="file:///C:\Users\IBM_ADMIN\Downloads\Cu-Sel\Roadmap.xlsx" lconnwikiparamwikiattachment="Roadmap.xlsx">TAE TDM Roadmap (Uploaded on November 15, 2016)</a></li>
+			</ul>
+
+			<p><strong>*Note: </strong>The roadmap document is subjected to change based on the product owners decisions and the sprint deliverables. For more information, contact Kamala Rajanala (kamala.rajanala@in.ibm.com)<a href="http://kamala.rajanala@in.ibm.com">.</a><strong> </strong></p>
+			</td>
+			<td colspan="1" rowspan="5" style="width: 285px; text-align: center;">
+			<p>To get access to the application, contact:</p>
+
+			<p>Preeti Roy (Preeti P Roy/India/IBM)</p>
+
+			<p>For any other queries, contact: Kamala Rajanala (kamala.rajanala@in.ibm.com)<a href="http://kamala.rajanala@in.ibm.com">.</a></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 240px;">OTFA Tool V3.0.1 Documentation</td>
+			<td style="width: 246px;">
+			<ul>
+				<li><a href="file:///C:\Users\IBM_ADMIN\Downloads\Cu-Sel\OTFA_Release%20Notes3.0.1.pdf" lconnwikiparamwikiattachment="OTFA_Release Notes3.0.1.pdf" target="_blank">Release Notes</a></li>
+				<li><a href="file:///C:\Users\IBM_ADMIN\Downloads\Cu-Sel\OTFA_Installation_Guide3.0.1.pdf" lconnwikiparamwikiattachment="OTFA_Installation_Guide3.0.1.pdf" target="_blank">Installation Guide</a></li>
+				<li><a href="file:///C:\Users\IBM_ADMIN\Downloads\Cu-Sel\OTFA_User_Guide3.0.1.pdf" lconnwikiparamwikiattachment="OTFA_User_Guide3.0.1.pdf">User Guide</a></li>
+				<li><a href="file:///C:\Users\IBM_ADMIN\Downloads\Cu-Sel\OTF_to_OTFA_migration.pdf" lconnwikiparamwikiattachment="OTF_to_OTFA_migration.pdf" target="_blank">OTF to OTFA migration Guide</a></li>
+				<li><a href="file:///C:\Users\IBM_ADMIN\Downloads\Cu-Sel\feature%20file.pdf" lconnwikiparamwikiattachment="feature file.pdf">Feature File Actions document</a></li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 240px;">OTFA Tool V3.0 Documentation</td>
+			<td style="width: 246px;">
+			<ul>
+				<li><a href="file:///C:\Users\IBM_ADMIN\Downloads\Cu-Sel\OTFA_Release%20Notes30.pdf" lconnwikiparamwikiattachment="OTFA_Release Notes30.pdf">Release Notes</a></li>
+				<li><a href="file:///C:\Users\IBM_ADMIN\Downloads\Cu-Sel\OTFA_Installation%20Guide30.pdf" lconnwikiparamwikiattachment="OTFA_Installation Guide30.pdf">Installation Guide</a></li>
+				<li><a href="file:///C:\Users\IBM_ADMIN\Downloads\Cu-Sel\OTFA_user_guide_v30.pdf" lconnwikiparamwikiattachment="OTFA_user_guide_v30.pdf">User Guide</a></li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 240px;">OTFA Tool V3.0.1 Demo videos</td>
+			<td style="width: 246px;">
+			<ul>
+				<li><a href="file:///C:\Users\IBM_ADMIN\Downloads\Cu-Sel\feature_file_execution_updated.mp4" lconnwikiparamwikiattachment="feature_file_execution_updated.mp4">Executing Test Cases for Web Applications (3.0.1)</a></li>
+				<li><a href="file:///C:\Users\IBM_ADMIN\Downloads\Cu-Sel\mobile_execution_301.mp4" lconnwikiparamwikiattachment="mobile_execution_301.mp4" target="_blank">Executing test cases for Mobile applications (3.0.1)</a></li>
+				<li><a href="file:///C:\Users\IBM_ADMIN\Downloads\Cu-Sel\create_feature_file.mp4" lconnwikiparamwikiattachment="create_feature_file.mp4" target="_blank">Creating feature file from CTD</a></li>
+				<li><a href="file:///C:\Users\IBM_ADMIN\Downloads\Cu-Sel\Featurefile_creation_from_OTFA.mp4" lconnwikiparamwikiattachment="Featurefile_creation_from_OTFA.mp4" target="_blank">Creating feature file from OTFA</a></li>
+				<li><a href="file:///C:\Users\IBM_ADMIN\Downloads\Cu-Sel\Meeting%20recording%20-%20Nov%207%2C%202016%2C%206.06.55%20PM.wmv" lconnwikiparamwikiattachment="Meeting recording - Nov 7, 2016, 6.06.55 PM.wmv">October release demo</a></li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 240px;">OTFA Tool V3.0 Demo videos</td>
+			<td style="width: 246px;">
+			<ul>
+				<li><a href="file:///C:\Users\IBM_ADMIN\Downloads\Cu-Sel\login_sel.mp4" lconnwikiparamwikiattachment="login_sel.mp4" target="_blank">Logging in to the Application</a></li>
+				<li><a href="file:///C:\Users\IBM_ADMIN\Downloads\Cu-Sel\create_applicaiton.mp4" lconnwikiparamwikiattachment="create_applicaiton.mp4" target="_blank">Creating Applications</a></li>
+				<li><a href="file:///C:\Users\IBM_ADMIN\Downloads\Cu-Sel\create_user.mp4" lconnwikiparamwikiattachment="create_user.mp4" target="_blank">Creating Users</a></li>
+				<li><a href="file:///C:\Users\IBM_ADMIN\Downloads\Cu-Sel\create_feature_file.mp4" lconnwikiparamwikiattachment="create_feature_file.mp4" target="_blank">Creating Feature Files</a></li>
+				<li><a href="file:///C:\Users\IBM_ADMIN\Downloads\Cu-Sel\adding_sel_grid.mp4" lconnwikiparamwikiattachment="adding_sel_grid.mp4">Adding a Selenium Grid</a></li>
+				<li><a href="file:///C:\Users\IBM_ADMIN\Downloads\Cu-Sel\register_server_device.mp4" lconnwikiparamwikiattachment="register_server_device.mp4" target="_blank">Registering Mobile Test Servers and Mobile Devices</a></li>
+				<li><a href="file:///C:\Users\IBM_ADMIN\Downloads\Cu-Sel\execution_on_web.mp4" lconnwikiparamwikiattachment="execution_on_web.mp4" target="_blank">Executing Test Cases for Web Applications</a></li>
+				<li><a href="file:///C:\Users\IBM_ADMIN\Downloads\Cu-Sel\mobile_execution.mp4" lconnwikiparamwikiattachment="mobile_execution.mp4">Executing Test Cases for Mobile Applications</a></li>
+			</ul>
+			</td>
+		</tr>
+	</tbody>
+</table></div></body></html>
