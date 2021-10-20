@@ -1,0 +1,17 @@
+defectId,severity,closedDate,application,openDate,rootCause,phase,projectName,status
+4723,C-Medium,12/22/2016,SRI2,11/29/2016,Component Code,System Test (ST),A,Closed
+4724,D-Low,12/23/2016,SRI2,11/29/2016,Component Code,System Test (ST),A,Closed
+4728,D-Low,12/12/2016,SRI2,11/29/2016,Not Available,System Test (ST),A,Closed
+4722,D-Low,12/22/2016,SRI2,11/29/2016,Component Code,System Test (ST),A,Closed
+4732,C-Medium,12/22/2016,SRI2,11/30/2016,Component Code,System Test (ST),A,Closed
+4734,C-Medium,9999-99-99,SRI2,11/30/2016,Component Code,System Test (ST),A,Closed
+4731,C-Medium,12/22/2016,SRI2,11/30/2016,Component Code,System Test (ST),A,Closed
+4767,C-Medium,12/22/2016,SRI2,12/13/2016,Component Code,System Test (ST),A,Closed
+4760,C-Medium,12/28/2016,SRI2,12/13/2016,Component Code,System Test (ST),A,Closed
+4761,C-Medium,12/13/2016,SRI2,12/13/2016,Not Available,System Test (ST),A,Closed
+4762,C-Medium,12/28/2016,SRI2,12/13/2016,Component Code,System Test (ST),A,Closed
+4768,D-Low,12/20/2016,SRI2,12/13/2016,Not Available,System Test (ST),A,Closed
+4772,C-Medium,2/8/2017,SRI2,12/14/2016,Not Available,System Test (ST),A,Closed
+4775,B-High,1/2/2017,SRI2,12/14/2016,Not Available,System Test (ST),A,Closed
+4769,C-Medium,12/20/2016,SRI2,12/14/2016,Not Available,System Test (ST),A,Closed
+4771,D-Low,12/23/2016,SRI2,12/14/2016,Component Code,System Test (ST),A,Closed

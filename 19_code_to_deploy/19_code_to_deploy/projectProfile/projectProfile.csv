@@ -1,0 +1,5 @@
+_class,projectName,releaseName,application,appVersion,appComplexity,phase,developerTeamSize,testTeamSize,startDate,durationWeeks,noOfExecutedTestCases,maturity,lastModified,counter
+com.ignite.helper.model.ProjectProfile,A,All,NGBA Phase 1.1,Existing,42.57,System Integration Test (SIT),6,23,12/16/2015 5:30,"3,9,11,2",4000,Level4,7/5/2017 17:45,21
+com.ignite.helper.model.ProjectProfile,A,All,NGBA Phase 2,Existing,42.57,System Integration Test (SIT),6,23,12/16/2015 5:30,"2,2,11",4000,Level4,7/5/2017 17:45,21
+com.ignite.helper.model.ProjectProfile,A,All,Pending Transactions,Existing,42.57,System Integration Test (SIT),6,23,12/16/2015 5:30,"1,13",4000,Level4,7/5/2017 17:45,21
+com.ignite.helper.model.ProjectProfile,A,All,SRI2,Existing,42.57,System Test (ST),6,23,12/16/2015 5:30,"1,4",4000,Level4,7/5/2017 17:45,21

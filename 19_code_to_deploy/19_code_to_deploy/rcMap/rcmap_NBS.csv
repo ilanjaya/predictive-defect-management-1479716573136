@@ -1,0 +1,34 @@
+Root_Cause1,Root_Cause2,value
+Not Available,Not Available,Low
+Detailed Design,Design,Medium
+High Level Design,Data,Low
+Rejected-Duplicate,Rejected,Low
+Detailed Business Requirements,Requirements,High
+Component Code,Code,Medium
+Reference Data,Data,Low
+Connectivity,Environment,Low
+Test Script,Testing,Low
+Operating System,Other,Low
+Rejected-Existing Functionality,Rejected,Low
+Application Data,Data,Low
+Device,Hardware,High
+Component Integration,Integration,Low
+Middleware,Middleware,Low
+Installation,Build,Low
+Packaging,Build,Low
+System Integration,Integration,Low
+Application error,Other,Low
+Detailed Operational Design,Design,Low
+Technical Specification,Other,Low
+High Level Requirements,Requirements,High
+Hardware,Hardware,High
+Code Management error,Other,Low
+Usabllity terms Of Reference,Other,Low
+Rejected-Cannot Recreate,Rejected,Low
+Rejected-User Experience,Rejected,Low
+IT Requirements Specifications,Other,Low
+Outline Architecture Design,Design,Medium
+3rd party service error,Other,Low
+Test Tool,Other,Low
+Application Error,Other,Low
+Data,Data,Low

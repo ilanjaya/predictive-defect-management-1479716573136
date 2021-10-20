@@ -1,0 +1,8 @@
+install.packages('mongolite')
+install.packages('reshape2')
+install.packages('plyr')
+install.packages('dplyr')
+install.packages('car')
+install.packages('lubridate')
+install.packages('data.table')
+install.packages('stats')

@@ -1,0 +1,48 @@
+defectId,severity,closedDate,application,openDate,rootCause,phase,projectName,status
+4508,C-Medium,10/18/2016,NGBA Phase 2,10/5/2016,Not Available,System Integration Test (SIT),A,Closed
+4510,C-Medium,11/8/2016,NGBA Phase 2,10/5/2016,Not Available,System Integration Test (SIT),A,Closed
+4511,C-Medium,10/25/2016,NGBA Phase 2,10/5/2016,Not Available,System Integration Test (SIT),A,Closed
+4512,C-Medium,10/20/2016,NGBA Phase 2,10/5/2016,Not Available,System Integration Test (SIT),A,Closed
+4513,C-Medium,10/18/2016,NGBA Phase 2,10/5/2016,Not Available,System Integration Test (SIT),A,Closed
+4520,D-Low,11/15/2016,NGBA Phase 2,10/7/2016,Detailed Business Requirements,System Integration Test (SIT),A,Closed
+4521,D-Low,1/23/2017,NGBA Phase 2,10/7/2016,Detailed Design,System Integration Test (SIT),A,Closed
+4522,C-Medium,10/20/2016,NGBA Phase 2,10/7/2016,Not Available,System Integration Test (SIT),A,Closed
+5056,B-High,5/9/2017,NGBA Phase 2,5/2/2017,Component Integration,System Integration Test (SIT),A,Closed
+5058,C-Medium,5/10/2017,NGBA Phase 2,5/4/2017,Detailed Design,System Integration Test (SIT),A,Closed
+5060,C-Medium,5/11/2017,NGBA Phase 2,5/4/2017,Not Available,System Integration Test (SIT),A,Closed
+5062,B-High,5/5/2017,NGBA Phase 2,5/5/2017,Installation,System Integration Test (SIT),A,Closed
+5063,B-High,5/23/2017,NGBA Phase 2,5/5/2017,Component Code,System Integration Test (SIT),A,Closed
+5065,C-Medium,9999-99-99,NGBA Phase 2,5/5/2017,Detailed Design,System Integration Test (SIT),A,Closed
+5066,D-Low,9999-99-99,NGBA Phase 2,5/9/2017,Detailed Design,System Integration Test (SIT),A,Closed
+5067,C-Medium,9999-99-99,NGBA Phase 2,5/9/2017,Not Available,System Integration Test (SIT),A,Closed
+5068,D-Low,5/22/2017,NGBA Phase 2,5/10/2017,Component Code,System Integration Test (SIT),A,Closed
+5070,C-Medium,5/10/2017,NGBA Phase 2,5/10/2017,Not Available,System Integration Test (SIT),A,Closed
+5071,B-High,5/24/2017,NGBA Phase 2,5/10/2017,Test Script,System Integration Test (SIT),A,Closed
+5072,C-Medium,5/10/2017,NGBA Phase 2,5/10/2017,Not Available,System Integration Test (SIT),A,Closed
+5073,C-Medium,5/19/2017,NGBA Phase 2,5/10/2017,Not Available,System Integration Test (SIT),A,Closed
+5074,D-Low,5/11/2017,NGBA Phase 2,5/10/2017,Not Available,System Integration Test (SIT),A,Closed
+5075,D-Low,5/22/2017,NGBA Phase 2,5/10/2017,Component Code,System Integration Test (SIT),A,Closed
+5076,B-High,5/22/2017,NGBA Phase 2,5/10/2017,Component Code,System Integration Test (SIT),A,Closed
+5077,D-Low,5/11/2017,NGBA Phase 2,5/10/2017,Not Available,System Integration Test (SIT),A,Closed
+5078,B-High,5/19/2017,NGBA Phase 2,5/10/2017,Not Available,System Integration Test (SIT),A,Closed
+5079,C-Medium,5/22/2017,NGBA Phase 2,5/10/2017,Component Code,System Integration Test (SIT),A,Closed
+5080,D-Low,9999-99-99,NGBA Phase 2,5/10/2017,Component Code,System Integration Test (SIT),A,Closed
+5081,D-Low,5/19/2017,NGBA Phase 2,5/10/2017,Not Available,System Integration Test (SIT),A,Closed
+5082,A-Critical,5/22/2017,NGBA Phase 2,5/10/2017,Component Code,System Integration Test (SIT),A,Closed
+5083,D-Low,5/22/2017,NGBA Phase 2,5/11/2017,Component Code,System Integration Test (SIT),A,Closed
+5084,C-Medium,5/11/2017,NGBA Phase 2,5/11/2017,Not Available,System Integration Test (SIT),A,Closed
+5085,D-Low,5/12/2017,NGBA Phase 2,5/11/2017,Not Available,System Integration Test (SIT),A,Closed
+5086,D-Low,5/22/2017,NGBA Phase 2,5/11/2017,Component Code,System Integration Test (SIT),A,Closed
+5087,C-Medium,5/22/2017,NGBA Phase 2,5/11/2017,Middleware,System Integration Test (SIT),A,Closed
+5089,D-Low,5/22/2017,NGBA Phase 2,5/11/2017,Component Code,System Integration Test (SIT),A,Closed
+5090,D-Low,5/16/2017,NGBA Phase 2,5/12/2017,Not Available,System Integration Test (SIT),A,Closed
+5091,D-Low,5/22/2017,NGBA Phase 2,5/12/2017,Component Code,System Integration Test (SIT),A,Closed
+5093,C-Medium,5/19/2017,NGBA Phase 2,5/12/2017,Not Available,System Integration Test (SIT),A,Closed
+5094,C-Medium,9999-99-99,NGBA Phase 2,5/12/2017,Detailed Design,System Integration Test (SIT),A,Closed
+5095,C-Medium,9999-99-99,NGBA Phase 2,5/12/2017,Detailed Design,System Integration Test (SIT),A,Closed
+5097,D-Low,5/22/2017,NGBA Phase 2,5/16/2017,Component Code,System Integration Test (SIT),A,Closed
+5098,D-Low,5/22/2017,NGBA Phase 2,5/16/2017,Component Code,System Integration Test (SIT),A,Closed
+5099,A-Critical,6/13/2017,NGBA Phase 2,5/18/2017,Not Available,System Integration Test (SIT),A,Closed
+5100,C-Medium,9999-99-99,NGBA Phase 2,5/18/2017,Component Code,System Integration Test (SIT),A,Closed
+5101,C-Medium,9999-99-99,NGBA Phase 2,5/19/2017,Detailed Design,System Integration Test (SIT),A,Closed
+5102,B-High,6/6/2017,NGBA Phase 2,5/19/2017,Installation,System Integration Test (SIT),A,Closed
